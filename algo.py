@@ -27,3 +27,4 @@ for i in list3 :
         list2.append(i)
 print ("Liste des nombres divisibles par 4:", list4)
 print ("Liste des nombres divisibles par 4:", list2)
+print(list4)
